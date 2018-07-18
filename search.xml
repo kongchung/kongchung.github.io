@@ -3,18 +3,18 @@
   
     
     <entry>
-      <title>记录一次分享课程</title>
-      <link href="/2018/07/17/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%88%86%E4%BA%AB%E8%AF%BE%E7%A8%8B/"/>
-      <url>/2018/07/17/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%88%86%E4%BA%AB%E8%AF%BE%E7%A8%8B/</url>
-      <content type="html"><![CDATA[<p>今天晚上和大家分享了一下BIOS Profiling<br>只是这个课件就写了两天<br>学习skylake中的cache的架构<br>学习bios选项中的内存，IO，和power相关的调节也有一年多的经验了<br>但是讲解起来还是感觉内容是比较少的<br>况且已经看到了天花板<br>这种感觉真的非常吓人</p>]]></content>
+      <title></title>
+      <link href="/2018/07/18/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%88%86%E4%BA%AB%E8%AF%BE%E7%A8%8B/"/>
+      <url>/2018/07/18/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%88%86%E4%BA%AB%E8%AF%BE%E7%A8%8B/</url>
+      <content type="html"><![CDATA[<hr><p>title: 记录一次分享课程<br>date: 2018-07-17 20:07:53</p><h2 id="tags"><a href="#tags" class="headerlink" title="tags:"></a>tags:</h2><p>今天晚上和大家分享了一下BIOS Profiling<br>只是这个课件就写了两天<br>学习skylake中的cache的架构<br>学习bios选项中的内存，IO，和power相关的调节也有一年多的经验了<br>但是讲解起来还是感觉内容是比较少的<br>况且已经看到了天花板<br>这种感觉真的非常吓人</p>]]></content>
       
       
     </entry>
     
     <entry>
       <title>my first hexo style blog</title>
-      <link href="/2018/07/17/my-first-hexo-style-blog/"/>
-      <url>/2018/07/17/my-first-hexo-style-blog/</url>
+      <link href="/2018/07/17/My-first-hexo-style-blog/"/>
+      <url>/2018/07/17/My-first-hexo-style-blog/</url>
       <content type="html"><![CDATA[<p>首先安装nodejs和npm<br>然后安装git<br>最后安装hexo<br>感受一下hexo本地模式的操作</p><p>然后把ssh的key加到github上<br>配置hexo的配置文件git方式部署<br>然后部署到github上</p>]]></content>
       
       
